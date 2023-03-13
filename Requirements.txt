@@ -18,3 +18,5 @@ setproctitle
 #  python -c "import torch; print(import torch; print(torch.__version__)"
 #  Use this code to clear your memory: python import torch torch.cuda.empty_cache())
 ## nvidia-smi  ## Tamim: for cuda summary
+##conda config --add channels conda-forge
+## conda install imgaug
