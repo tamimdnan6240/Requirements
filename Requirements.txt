@@ -10,6 +10,8 @@ visdom
 setproctitle
 segmentation_models_pytorch albumentations
 
+## for HPC, to install something in pytorch, First, module load pytorch, then pip install segmentation_models_pytorch albumentations
+
 
 ## -u means telling the pip commnand to upgrade and -q means telling the pip command to remove the error meassages. 
 ## torchvision cudatoolkit=10.0 -c Pytorch Tamim: for cuda environment
