@@ -23,3 +23,9 @@ segmentation_models_pytorch albumentations
 ## nvidia-smi  ## Tamim: for cuda summary
 ##conda config --add channels conda-forge
 ## conda install imgaug
+## enable cuda: 
+
+# import torch 
+# if.cuda.is_available():
+#   device = torch.device("cuda")
+#   print(device)
