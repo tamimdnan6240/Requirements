@@ -8,7 +8,7 @@ torchvision
 tqdm
 visdom
 setproctitle
-segmentation_models_pytorch
+segmentation_models_pytorch albumentations
 
 ## torchvision cudatoolkit=10.0 -c Pytorch Tamim: for cuda environment
 ## opencv2 installation code: conda install py-opencv
