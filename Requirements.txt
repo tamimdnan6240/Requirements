@@ -10,6 +10,8 @@ visdom
 setproctitle
 segmentation_models_pytorch albumentations
 
+
+## -u means telling the pip commnand to upgrade and -q means telling the pip command to remove the error meassages. 
 ## torchvision cudatoolkit=10.0 -c Pytorch Tamim: for cuda environment
 ## opencv2 installation code: conda install py-opencv
 ## cuda tools cudatoolkit=10.0 -c Pytorch NB: cudatoolkit is for CUDA 10
