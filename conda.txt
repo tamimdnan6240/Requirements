@@ -1,0 +1,11 @@
+conda create --name pytorch python=3.7
+conda activate pytorch
+conda install pytorch==1.7.0 torchvision torchaudio cudatoolkit=11.0 -c pytorch
+conda install -c conda-forge tensorboardx notebook -y
+conda install -c conda-forge opencv pandas matplotlib tqdm -y
+conda install -c conda-forge scikit-learn scikit-image -y
+conda install -c conda-forge numpy=1.16.6 scipy=1.5.3 -y
+conda install -c anaconda h5py=2.10.0 -y
+# Some specific package 
+conda install -c anaconda pywget -y
+conda install -c conda-forge shapely
