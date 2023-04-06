@@ -13,3 +13,7 @@ torch.cuda.is_available()
 
 ## activate visdom 
 python -m visdom.server
+
+## possible tutorials
+
+## https://github.com/noagarcia/visdom-tutorial
