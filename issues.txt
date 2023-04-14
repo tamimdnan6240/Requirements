@@ -1,0 +1,3 @@
+## kernel dying
+Remove the ipykernel using conda remove ipykernel
+and then resinstall with lower version with pip install ipykernel ==4.2.2
