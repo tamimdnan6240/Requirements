@@ -1,3 +1,13 @@
 ## kernel dying
 Remove the ipykernel using conda remove ipykernel
 and then resinstall with lower version with pip install ipykernel ==4.2.2
+
+
+How to create anaconda environment in HPC? 
+$ module load anaconda3/2022.5
+$ conda create --name torch-env pytorch torchvision torchaudio cpuonly --channel pytorch
+$ conda activate torch-env
+link: https://researchcomputing.princeton.edu/support/knowledge-base/pytorch
+ 
+ ## every time after creating the conda environment. 
+ module load anaconda3/2022.10  
