@@ -1,0 +1,1 @@
+cat output_epoch_optimizers_1000_Adam.txt | grep train_loss
