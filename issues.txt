@@ -11,3 +11,11 @@ link: https://researchcomputing.princeton.edu/support/knowledge-base/pytorch
  
  ## every time after creating the conda environment. 
  module load anaconda3/2022.10  
+
+## How to use grep command in linux. 
+
+if my output slurm. slurm.output.x
+
+extract loss function only, 
+
+output.shlurm | grep loss > loss.txt. 
