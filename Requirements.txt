@@ -11,6 +11,8 @@ setproctitle
 opencv-python
 skorch
 ultralytics
+PyMuPDF
+
 # segmentation_models_pytorch albumentations
 
 ## for HPC, to install something in pytorch, First, module load pytorch, then pip install segmentation_models_pytorch albumentations
