@@ -1,17 +1,33 @@
+# Common libraries
 numpy
 pandas
 matplotlib
+seaborn
 scikit-learn
-seaborn 
+tqdm
+
+# PyTorch libraries
 torch
 torchvision
-tqdm
-visdom
-setproctitle
-opencv-python
 skorch
-ultralytics
-PyMuPDF
+
+# TensorFlow and Keras
+tensorflow
+keras
+
+# Computer vision libraries
+opencv-python
+
+# Deep learning utilities and models
+ultralytics  # YOLOv5 or other models
+
+# Visualization tools
+visdom
+
+# Additional utilities
+setproctitle
+PyMuPDF  # for working with PDF documents
+
 
 # segmentation_models_pytorch albumentations
 
